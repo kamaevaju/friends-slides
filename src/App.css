@@ -1,0 +1,32 @@
+body{
+  background-color: #7b7297;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+h1{
+  font-size: 35px;
+  letter-spacing: 1px;
+}
+h2{
+  font-size: 28px;
+  font-style: italic;
+  letter-spacing: 2px;
+}
+button{
+  background-color: #9e7c35;
+  padding: 15px;
+  width: 100px;
+  margin: 10px;
+  border-radius: 3px;
+  border: 1px solid #4C0033;
+  font-size: 15px;
+  font-weight: 550;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 3px;
+}
